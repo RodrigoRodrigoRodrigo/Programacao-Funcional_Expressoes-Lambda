@@ -86,3 +86,7 @@ public class Product {
 	}
 }
 
+![1](https://user-images.githubusercontent.com/61166475/155022820-9c03ca4f-9939-482f-8735-dc443eb4f51a.png)
+![2](https://user-images.githubusercontent.com/61166475/155022821-0016b505-9311-407f-b884-5f2ba30f93f4.png)
+![3](https://user-images.githubusercontent.com/61166475/155022816-55fc1c9b-fc33-4522-b2fa-3bae5712d19b.png)
+![4](https://user-images.githubusercontent.com/61166475/155022818-85826da4-7045-447f-99eb-27bc9e1549d2.png)
