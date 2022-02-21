@@ -96,6 +96,6 @@ public class ProductPredicate implements Predicate<Product> {
 }
 	
 ![1](https://user-images.githubusercontent.com/61166475/155022544-d16b41d9-a16d-4dec-98d6-e4cc581b0eb0.png)
-![2](https://user-images.githubusercontent.com/6![3![4](https://user-images.githubusercontent.com/61166475/155022556-48a5a15e-9639-4c7b-915c-214d70ba161a.png)
+![2](https://user-images.githubusercontent.com/61166475/155022676-9dc8f81d-e43a-4a96-a112-070e6759352e.png)
 ![3](https://user-images.githubusercontent.com/61166475/155022614-21419fb4-677b-43e0-a38b-abc907583cac.png)
 ![4](https://user-images.githubusercontent.com/61166475/155022619-afb6059a-4acf-4cac-b9fa-db072eb8e6ae.png)
